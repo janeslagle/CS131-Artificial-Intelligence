@@ -3,10 +3,14 @@
 ## Jane Slagle  
 
 
+
+
 ### To Run:
 - Run `main.py` 
   - Everything for simulating the behavior of the vacuum is contained within the function `main()` in `main.py`
 - Ensure the `random` library is installed
+
+
 
 
 ### Assumptions:
@@ -20,9 +24,13 @@
 3. There is a 15% chance that a dusty spot is detected (randomly determined)  
 4. Once a task is completed and the robot has no more tasks left, the user is prompted to choose the next task  
 
+
+
 **Termination Conditions:**
 1. The vacuum runs out of battery (battery level 0%) and is not recharged during the simulation
 2. The vacuum finishes all tasks and the user chooses to power it off instead of assigning another task
+
+
 
 **Task Details:**
 
@@ -31,6 +39,8 @@
 
   **Charge Task**
   - Assumes that the vacuum's battery is charged to 100% when this task is called 
+
+
 
 
 ### Results:
