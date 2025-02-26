@@ -1,6 +1,6 @@
-Tufts CS 131 - Artificial Intelligence
-Assignment 01 - Behavior Trees
-Jane Slagle
+# Tufts CS 131 - Artificial Intelligence
+# Assignment 01 - Behavior Trees
+# Jane Slagle
 
 To Run:
 - Run main.py
