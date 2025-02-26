@@ -2,14 +2,12 @@
 ## Assignment 01 - Behavior Trees
 ## Jane Slagle  
 
----
 
 ### To Run:
 - Run `main.py` 
   - Everything for simulating the behavior of the vacuum is contained within the function `main()` in `main.py`
 - Ensure the `random` library is installed
 
----
 
 ### Assumptions:
 
@@ -26,8 +24,6 @@
 1. The vacuum runs out of battery (battery level 0%) and is not recharged during the simulation
 2. The vacuum finishes all tasks and the user chooses to power it off instead of assigning another task
 
----
-
 **Task Details:**
 **Clean Floor Task**
 - There is a 5% chance that the vacuum will fail to clean the entire floor (randomly determined) 
@@ -35,7 +31,6 @@
 **Charge Task**
 - Assumes that the vacuum's battery is charged to 100% when this task is called 
 
----
 
 ### Results:
 - Displays the progress of the selected task in real time
