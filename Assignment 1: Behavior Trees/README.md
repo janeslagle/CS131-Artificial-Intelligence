@@ -25,11 +25,12 @@
 2. The vacuum finishes all tasks and the user chooses to power it off instead of assigning another task
 
 **Task Details:**
-**Clean Floor Task**
-- There is a 5% chance that the vacuum will fail to clean the entire floor (randomly determined) 
 
-**Charge Task**
-- Assumes that the vacuum's battery is charged to 100% when this task is called 
+  **Clean Floor Task**
+  - There is a 5% chance that the vacuum will fail to clean the entire floor (randomly determined) 
+
+  **Charge Task**
+  - Assumes that the vacuum's battery is charged to 100% when this task is called 
 
 
 ### Results:
