@@ -2,7 +2,7 @@ Tufts CS 131 - Artificial Intelligence
 Assignment 01 - Behavior Trees
 Jane Slagle
 
-To run:
+To Run:
 - Run main.py
     Everything for simulating the behavior of the vacuum is contained within the function main() in main.py
 - Make sure the random library is installed
